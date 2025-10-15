@@ -3,7 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(SpriteRenderer))]
 public class Parallax : MonoBehaviour
 {
-    public float velocidade = 0.6f;
+    public float velocidade = 0.2f;
     private Vector3 posicaoInicial;
     private float tamanhoDaImagem;
 

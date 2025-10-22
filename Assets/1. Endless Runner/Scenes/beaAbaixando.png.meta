@@ -1,0 +1,827 @@
+fileFormatVersion: 2
+guid: b99330fa4828793448298bd5ffba39da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2397628356143951424
+    second: beaAbaixando_0
+  - first:
+      213: -1315091700185695800
+    second: beaAbaixando_1
+  - first:
+      213: -7345164426118272092
+    second: beaAbaixando_2
+  - first:
+      213: 5045495842380035582
+    second: beaAbaixando_3
+  - first:
+      213: -8062550343273302448
+    second: beaAbaixando_4
+  - first:
+      213: -3113060659423967980
+    second: beaAbaixando_5
+  - first:
+      213: 168215581464175487
+    second: beaAbaixando_6
+  - first:
+      213: 1818832072357704542
+    second: beaAbaixando_7
+  - first:
+      213: 3787658398446422454
+    second: beaAbaixando_8
+  - first:
+      213: -2350586299036969439
+    second: beaAbaixando_9
+  - first:
+      213: -7445369399430046286
+    second: beaAbaixando_10
+  - first:
+      213: -8090736934774704936
+    second: beaAbaixando_11
+  - first:
+      213: -6331442118544201897
+    second: beaAbaixando_12
+  - first:
+      213: 3172967290105307561
+    second: beaAbaixando_13
+  - first:
+      213: 5219294363573150447
+    second: beaAbaixando_14
+  - first:
+      213: 327686090400007163
+    second: beaAbaixando_15
+  - first:
+      213: -4452802721268069329
+    second: beaAbaixando_16
+  - first:
+      213: -4516852789404120180
+    second: beaAbaixando_17
+  - first:
+      213: 4948885281167811624
+    second: beaAbaixando_18
+  - first:
+      213: -8928104583943974074
+    second: beaAbaixando_19
+  - first:
+      213: -6237866695971185701
+    second: beaAbaixando_20
+  - first:
+      213: -8506447323078901627
+    second: beaAbaixando_21
+  - first:
+      213: -5918543030436635565
+    second: beaAbaixando_22
+  - first:
+      213: 1698045141648051619
+    second: beaAbaixando_23
+  - first:
+      213: 4026404866758676772
+    second: beaAbaixando_24
+  - first:
+      213: -498039530623985898
+    second: beaAbaixando_25
+  - first:
+      213: -3517625823652107412
+    second: beaAbaixando_26
+  - first:
+      213: 3259991961552894254
+    second: beaAbaixando_27
+  - first:
+      213: 8022906574710356076
+    second: beaAbaixando_28
+  - first:
+      213: 7134499407191344056
+    second: beaAbaixando_29
+  - first:
+      213: -438384001379093516
+    second: beaAbaixando_30
+  - first:
+      213: -7449793461644606629
+    second: beaAbaixando_31
+  - first:
+      213: 8532263639568820295
+    second: beaAbaixando_32
+  - first:
+      213: 7468329118161738298
+    second: beaAbaixando_33
+  - first:
+      213: -1262748419227407296
+    second: beaAbaixando_34
+  - first:
+      213: -1060754965148312601
+    second: beaAbaixando_35
+  - first:
+      213: 2141030916196347105
+    second: beaAbaixando_36
+  - first:
+      213: 4679158511535900450
+    second: beaAbaixando_37
+  - first:
+      213: 4811648441869400937
+    second: beaAbaixando_38
+  - first:
+      213: 1811001568816606617
+    second: beaAbaixando_39
+  - first:
+      213: -1225323368386361581
+    second: beaAbaixando_40
+  - first:
+      213: -57038900784344663
+    second: beaAbaixando_41
+  - first:
+      213: 7511380254237556322
+    second: beaAbaixando_42
+  - first:
+      213: -6542670274689691409
+    second: beaAbaixando_43
+  - first:
+      213: -2965298982042247490
+    second: beaAbaixando_44
+  - first:
+      213: 8793713263192179832
+    second: beaAbaixando_45
+  - first:
+      213: -2177489227229002097
+    second: beaAbaixando_46
+  - first:
+      213: 5384609185365795079
+    second: beaAbaixando_47
+  - first:
+      213: 5886887313702178367
+    second: beaAbaixando_48
+  - first:
+      213: 4219253880950178837
+    second: beaAbaixando_49
+  - first:
+      213: -2968637751660258559
+    second: beaAbaixando_50
+  - first:
+      213: 607576482100358262
+    second: beaAbaixando_51
+  - first:
+      213: 4142446252497760541
+    second: beaAbaixando_52
+  - first:
+      213: -6841415112631656773
+    second: beaAbaixando_53
+  - first:
+      213: -2668872281766225420
+    second: beaAbaixando_54
+  - first:
+      213: -1014694155727206778
+    second: beaAbaixando_55
+  - first:
+      213: -775592445726977004
+    second: beaAbaixando_56
+  - first:
+      213: 8999355951672926329
+    second: beaAbaixando_57
+  - first:
+      213: 6986241749152481572
+    second: beaAbaixando_58
+  - first:
+      213: 1800501966195645394
+    second: beaAbaixando_59
+  - first:
+      213: -8627780056603709331
+    second: beaAbaixando_60
+  - first:
+      213: 3341593732731464591
+    second: beaAbaixando_61
+  - first:
+      213: 3917558669781955154
+    second: beaAbaixando_62
+  - first:
+      213: 6360709975980900200
+    second: beaAbaixando_63
+  - first:
+      213: 1047363678910308684
+    second: beaAbaixando_64
+  - first:
+      213: -4961542599437089239
+    second: beaAbaixando_65
+  - first:
+      213: -7381599037710086705
+    second: beaAbaixando_66
+  - first:
+      213: 5688739113668592693
+    second: beaAbaixando_67
+  - first:
+      213: -7242195292225734196
+    second: beaAbaixando_68
+  - first:
+      213: -7249452117757427467
+    second: beaAbaixando_69
+  - first:
+      213: -1006497208195727113
+    second: beaAbaixando_70
+  - first:
+      213: -6320274234373986995
+    second: beaAbaixando_71
+  - first:
+      213: -3041253810490227632
+    second: beaAbaixando_72
+  - first:
+      213: 8310000312141229192
+    second: beaAbaixando_73
+  - first:
+      213: -9167323632439048998
+    second: beaAbaixando_74
+  - first:
+      213: -3065787664020761798
+    second: beaAbaixando_75
+  - first:
+      213: -421019877303019936
+    second: beaAbaixando_76
+  - first:
+      213: 6237201856404699206
+    second: beaAbaixando_77
+  - first:
+      213: -7985163149086393050
+    second: beaAbaixando_78
+  - first:
+      213: -4047259812005292187
+    second: beaAbaixando_79
+  - first:
+      213: 4574305227782585184
+    second: beaAbaixando_80
+  - first:
+      213: -2395490227558807784
+    second: beaAbaixando_81
+  - first:
+      213: -4336210740088131769
+    second: beaAbaixando_82
+  - first:
+      213: 4975102161953804210
+    second: beaAbaixando_83
+  - first:
+      213: -18755520230734657
+    second: beaAbaixando_84
+  - first:
+      213: -5694454517465006175
+    second: beaAbaixando_85
+  - first:
+      213: -2367713552492787658
+    second: beaAbaixando_86
+  - first:
+      213: 5549811779472379048
+    second: beaAbaixando_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beaAbaixando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e2d576946164120800000000000000
+      internalID: 2397628356143951424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 783
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9fd5bf01bdfbde0800000000000000
+      internalID: -1315091700185695800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 783
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab626ceedbb01a90800000000000000
+      internalID: -7345164426118272092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_3
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 783
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5b5c88cb3350640800000000000000
+      internalID: 5045495842380035582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056bd751e211c1090800000000000000
+      internalID: -8062550343273302448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 522
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4158acee2df2cc4d0800000000000000
+      internalID: -3113060659423967980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 522
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73abda1e2f955200800000000000000
+      internalID: 168215581464175487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_7
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 522
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53f7fa122acd3910800000000000000
+      internalID: 1818832072357704542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b98ce9de37709430800000000000000
+      internalID: 3787658398446422454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 261
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1265008073a016fd0800000000000000
+      internalID: -2350586299036969439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_10
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 261
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd986d7afbbca890800000000000000
+      internalID: -7445369399430046286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_11
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 261
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4fe97df9de7bf80800000000000000
+      internalID: -8090736934774704936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757e93840f23228a0800000000000000
+      internalID: -6331442118544201897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a129a270f4a80c20800000000000000
+      internalID: 3172967290105307561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_14
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2e9f61298ae6840800000000000000
+      internalID: 5219294363573150447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaAbaixando_15
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 0
+        width: 431
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3012853cc2c8400800000000000000
+      internalID: 327686090400007163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: abacf6708b67d92478c253b1001aa01c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beaAbaixando_0: 2397628356143951424
+      beaAbaixando_1: -1315091700185695800
+      beaAbaixando_10: -7445369399430046286
+      beaAbaixando_11: -8090736934774704936
+      beaAbaixando_12: -6331442118544201897
+      beaAbaixando_13: 3172967290105307561
+      beaAbaixando_14: 5219294363573150447
+      beaAbaixando_15: 327686090400007163
+      beaAbaixando_2: -7345164426118272092
+      beaAbaixando_3: 5045495842380035582
+      beaAbaixando_4: -8062550343273302448
+      beaAbaixando_5: -3113060659423967980
+      beaAbaixando_6: 168215581464175487
+      beaAbaixando_7: 1818832072357704542
+      beaAbaixando_8: 3787658398446422454
+      beaAbaixando_9: -2350586299036969439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

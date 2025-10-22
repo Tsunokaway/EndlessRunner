@@ -3,6 +3,12 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
 {
+    Animator animator;
+
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
     public float velocidade = 3;
     private Vector3 posicaoInicial;
     Rigidbody2D rb;
@@ -14,9 +20,25 @@ public class PlayerController : MonoBehaviour
     }
     private void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Space))
+        if(Input.GetKeyDown(KeyCode.RightArrow))
         {
            Impulsionar();
+        }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            animator.SetTrigger("pular");
+        }
+        else
+        {
+            animator.SetBool("pular", false);
+        }
+        if (Input.GetKeyDown(KeyCode.DownArrow))
+        {
+            animator.SetTrigger("abaixar");
+        }
+        else
+        {
+            animator.SetBool("abaixar", false);
         }
     }
     private void Impulsionar()

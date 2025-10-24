@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: 7f81de165abfbbb4a96487fdd3d4a643
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -964803004729506035
+    second: poca_0
+  - first:
+      213: -8101253458815666075
+    second: poca_1
+  - first:
+      213: -2581136592360508203
+    second: poca_2
+  - first:
+      213: 5872068330303488960
+    second: poca_3
+  - first:
+      213: 3670085792961789244
+    second: poca_4
+  - first:
+      213: 903164497293571424
+    second: poca_5
+  - first:
+      213: -5790922629158583257
+    second: poca_6
+  - first:
+      213: 6685318590129274860
+    second: poca_7
+  - first:
+      213: 8791987133513890577
+    second: poca_8
+  - first:
+      213: -5255101956926234769
+    second: poca_9
+  - first:
+      213: -5874480347345011894
+    second: poca_10
+  - first:
+      213: 6556790626761264008
+    second: poca_11
+  - first:
+      213: -6877514276420219077
+    second: poca_12
+  - first:
+      213: 7393471414630211157
+    second: poca_13
+  - first:
+      213: -4639861936167078554
+    second: poca_14
+  - first:
+      213: 617873129185319766
+    second: poca_15
+  - first:
+      213: 4634059952029313127
+    second: poca_16
+  - first:
+      213: -4033820143339525221
+    second: poca_17
+  - first:
+      213: 5914064100980857483
+    second: poca_18
+  - first:
+      213: 3197821278045977104
+    second: poca_19
+  - first:
+      213: 1176577930336506693
+    second: poca_20
+  - first:
+      213: 7086402297783880863
+    second: poca_21
+  - first:
+      213: -7356746897810697816
+    second: poca_22
+  - first:
+      213: -8714250202011002247
+    second: poca_23
+  - first:
+      213: -8906474650479120537
+    second: poca_24
+  - first:
+      213: -8914042863852680522
+    second: poca_25
+  - first:
+      213: 877086556983654807
+    second: poca_26
+  - first:
+      213: -7874154161092080196
+    second: poca_27
+  - first:
+      213: -517103590953300386
+    second: poca_28
+  - first:
+      213: 3186912827026037761
+    second: poca_29
+  - first:
+      213: 8910604023377131637
+    second: poca_30
+  - first:
+      213: 7556959849970484383
+    second: poca_31
+  - first:
+      213: -1275015878734778198
+    second: poca_32
+  - first:
+      213: -428869278161964035
+    second: poca_33
+  - first:
+      213: -3793122014464065423
+    second: poca_34
+  - first:
+      213: 4683455965523532303
+    second: poca_35
+  - first:
+      213: 6899112697544176923
+    second: poca_36
+  - first:
+      213: -2519803936206824643
+    second: poca_37
+  - first:
+      213: -3612504817477691578
+    second: poca_38
+  - first:
+      213: -9212461280050771773
+    second: poca_39
+  - first:
+      213: 5722204248460582797
+    second: poca_40
+  - first:
+      213: -1703711732166981043
+    second: poca_41
+  - first:
+      213: -1184332647575734111
+    second: poca_42
+  - first:
+      213: -3180170095375518744
+    second: poca_43
+  - first:
+      213: -5354557453701220086
+    second: poca_44
+  - first:
+      213: 9158837281756838198
+    second: poca_45
+  - first:
+      213: -2833250991346656584
+    second: poca_46
+  - first:
+      213: -286563704031922344
+    second: poca_47
+  - first:
+      213: 2580030914508574833
+    second: poca_48
+  - first:
+      213: -2009657775349183920
+    second: poca_49
+  - first:
+      213: -8286716066838859525
+    second: poca_50
+  - first:
+      213: 5382608258106939322
+    second: poca_51
+  - first:
+      213: 5438658326729156616
+    second: poca_52
+  - first:
+      213: 5411505785859838156
+    second: poca_53
+  - first:
+      213: -564513685164696744
+    second: poca_54
+  - first:
+      213: -8595010561877556881
+    second: poca_55
+  - first:
+      213: 566785711928641680
+    second: poca_56
+  - first:
+      213: -7793097186180994345
+    second: poca_57
+  - first:
+      213: -8422827971467307971
+    second: poca_58
+  - first:
+      213: -9208284768622180312
+    second: poca_59
+  - first:
+      213: -5825183328273925556
+    second: poca_60
+  - first:
+      213: -5251125920720652886
+    second: poca_61
+  - first:
+      213: 5255115190704318383
+    second: poca_62
+  - first:
+      213: -7432049251349730247
+    second: poca_63
+  - first:
+      213: -494047477368625212
+    second: poca_64
+  - first:
+      213: 4957670403572816466
+    second: poca_65
+  - first:
+      213: -4624965172040594488
+    second: poca_66
+  - first:
+      213: -6134324347494061780
+    second: poca_67
+  - first:
+      213: 5098148339230160761
+    second: poca_68
+  - first:
+      213: -2745364116101577191
+    second: poca_69
+  - first:
+      213: 6503807064691828363
+    second: poca_70
+  - first:
+      213: 3000064875949837985
+    second: poca_71
+  - first:
+      213: 3416387703573963561
+    second: poca_72
+  - first:
+      213: -4375186847872535824
+    second: poca_73
+  - first:
+      213: 4255175633137887885
+    second: poca_74
+  - first:
+      213: -315842610890487683
+    second: poca_75
+  - first:
+      213: 1051823557954280606
+    second: poca_76
+  - first:
+      213: -7541796376983986954
+    second: poca_77
+  - first:
+      213: 6049424416216710732
+    second: poca_78
+  - first:
+      213: 6333755889297366808
+    second: poca_79
+  - first:
+      213: 2251950392565662505
+    second: poca_80
+  - first:
+      213: 1353135660917123305
+    second: poca_81
+  - first:
+      213: -1844948642780338698
+    second: poca_82
+  - first:
+      213: 6956133948139788086
+    second: poca_83
+  - first:
+      213: 4187392245385752961
+    second: poca_84
+  - first:
+      213: -591044039638825250
+    second: poca_85
+  - first:
+      213: -2788741078872547724
+    second: poca_86
+  - first:
+      213: -1866402679199076331
+    second: poca_87
+  - first:
+      213: -8509608683598603168
+    second: poca_88
+  - first:
+      213: 2814801895543018168
+    second: poca_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poca_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1209
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d074ed867c45c92f0800000000000000
+      internalID: -964803004729506035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1209
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56833e7c6e0929f80800000000000000
+      internalID: -8101253458815666075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1209
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4f697d1f5fd2cd0800000000000000
+      internalID: -2581136592360508203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_3
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1209
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c38f8ce807cd7150800000000000000
+      internalID: 5872068330303488960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3df1b07593cee230800000000000000
+      internalID: 3670085792961789244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 806
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0657dea335fa88c00800000000000000
+      internalID: 903164497293571424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_6
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 806
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7244b37ec8282afa0800000000000000
+      internalID: -5790922629158583257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_7
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 806
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef78fe56d507cc50800000000000000
+      internalID: 6685318590129274860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b76ea47b9630a70800000000000000
+      internalID: 8791987133513890577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 403
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f93f6ec902217b0800000000000000
+      internalID: -5255101956926234769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_10
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 403
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bbc789f37a97ea0800000000000000
+      internalID: -5874480347345011894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_11
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 403
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b47bee5566efa50800000000000000
+      internalID: 6556790626761264008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f8b4844392e80a0800000000000000
+      internalID: -6877514276420219077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ed90e4413ea9660800000000000000
+      internalID: 7393471414630211157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_14
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665b7efe626eb9fb0800000000000000
+      internalID: -4639861936167078554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poca_15
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 427
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b995d5650239800800000000000000
+      internalID: 617873129185319766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e014663ed13d5b4486e6ea431e3b2bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      poca_0: -964803004729506035
+      poca_1: -8101253458815666075
+      poca_10: -5874480347345011894
+      poca_11: 6556790626761264008
+      poca_12: -6877514276420219077
+      poca_13: 7393471414630211157
+      poca_14: -4639861936167078554
+      poca_15: 617873129185319766
+      poca_2: -2581136592360508203
+      poca_3: 5872068330303488960
+      poca_4: 3670085792961789244
+      poca_5: 903164497293571424
+      poca_6: -5790922629158583257
+      poca_7: 6685318590129274860
+      poca_8: 8791987133513890577
+      poca_9: -5255101956926234769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

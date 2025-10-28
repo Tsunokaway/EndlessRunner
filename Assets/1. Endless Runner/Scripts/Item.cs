@@ -1,29 +1,30 @@
 using UnityEngine;
 
-public class Obstaculo : MonoBehaviour
+public class Item : MonoBehaviour
 {
     public float velocidade = 0.6f;
-
     private GameManager gameManager;
     public float variacaoY;
 
     private void Awake()
     {
-        transform.Translate(Vector3.up * Random.Range(-variacaoY,variacaoY));
+        transform.Translate(Vector3.up * Random.Range(-variacaoY, variacaoY));
     }
 
     // Update is called once per frame
     void Update()
-    {   
+    {
+        Debug.Log("Item ativo");
         transform.Translate(Vector3.left * velocidade * Time.deltaTime);
     }
-    void OnTriggerEnter2D(Collider2D collision){
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+
         if (collision.CompareTag("Player"))
         {
             // Adiciona pontos
-            gameManager.PerderPontos(20);
+            gameManager.AdicionarPontos(20);
 
         }
     }
-
 }

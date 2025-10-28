@@ -1,2 +1,12 @@
 fileFormatVersion: 2
 guid: eca12a4223498a6419af8580bdcef4d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - modeloObstaculo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

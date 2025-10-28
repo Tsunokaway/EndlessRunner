@@ -1,13 +1,13 @@
 using UnityEngine;
 
-public class GeradorObstaculos : MonoBehaviour
+public class GeradorItens : MonoBehaviour
 {
-     public GameObject modeloObstaculo;
+     public GameObject modeloItem;
 
     public float tempoParaGerar = 3;
     private float cronometro;
 
-
+    
     private void Awake()
     {
         cronometro = tempoParaGerar;
@@ -16,18 +16,18 @@ public class GeradorObstaculos : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (modeloObstaculo == null)
+        if (modeloItem == null)
         {
-            Debug.LogWarning("GeradorObstaculos: Nenhum modeloObstaculo atribuído!");
+            Debug.LogWarning("GeradorItens: Nenhum modeloItem atribuído!");
             return;
         }
         cronometro -= Time.deltaTime;
-        if (cronometro < 0)
+        if(cronometro < 0)
         {
-            Debug.Log("Bola gerado!");
-            GameObject.Instantiate(modeloObstaculo, transform.position, Quaternion.identity);
+            Debug.Log("Item gerado!");
+            GameObject.Instantiate(modeloItem, transform.position, Quaternion.identity);
             cronometro = tempoParaGerar;
         }
-
+        
     }
 }

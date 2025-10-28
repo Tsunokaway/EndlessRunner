@@ -20,10 +20,11 @@ public class PlayerController : MonoBehaviour
     }
     private void Update()
     {
-        if(Input.GetKeyDown(KeyCode.RightArrow))
-        {
-           Impulsionar();
-        }
+        //if(Input.GetKeyDown(KeyCode.RightArrow))
+        //{
+        //   Impulsionar();
+        //}
+
         if (Input.GetKeyDown(KeyCode.Space))
         {
             animator.SetTrigger("pular");

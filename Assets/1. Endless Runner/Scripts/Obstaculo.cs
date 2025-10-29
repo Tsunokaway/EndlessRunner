@@ -7,6 +7,11 @@ public class Obstaculo : MonoBehaviour
     private GameManager gameManager;
     public float variacaoY;
 
+    void Start()
+    {
+        gameManager = FindObjectOfType<GameManager>();
+    }
+
     private void Awake()
     {
         transform.Translate(Vector3.up * Random.Range(-variacaoY,variacaoY));
@@ -17,12 +22,12 @@ public class Obstaculo : MonoBehaviour
     {   
         transform.Translate(Vector3.left * velocidade * Time.deltaTime);
     }
-    void OnTriggerEnter2D(Collider2D collision){
-        if (collision.CompareTag("Player"))
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("Player"))
         {
-            // Adiciona pontos
-            gameManager.PerderPontos(20);
-
+            gameManager.PerderVida();
+            Destroy(gameObject); // opcional, se quiser remover o obstáculo depois da colisão
         }
     }
 
